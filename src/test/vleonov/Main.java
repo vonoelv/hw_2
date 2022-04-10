@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Initial commit");
         System.out.println("Initial commit2");
         System.out.println("Second commit");
+        System.out.println("First commit in new branch");
     }
 }
